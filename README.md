@@ -21,8 +21,8 @@ Spanish visual novel developed with <a href= "https://renpy.org">Ren´py</a>, a 
 
 The game is available on:
 
-Android: https://www.dropbox.com/s/57bcqyfmoxcc46y/EleccionesGenerales-1.0-release.apk?dl=0
-Windows: https://www.dropbox.com/s/gvvegz8f569y7yu/EleccionesGenerales-1.0-all.zip?dl=0
+- Android: https://www.dropbox.com/s/57bcqyfmoxcc46y/EleccionesGenerales-1.0-release.apk?dl=0
+- Windows: https://www.dropbox.com/s/gvvegz8f569y7yu/EleccionesGenerales-1.0-all.zip?dl=0
 
 ## Warning
 
