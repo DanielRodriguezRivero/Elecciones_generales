@@ -1,5 +1,5 @@
 # Elecciones Generales
-Spanish visual novel developed with Ren'py, a Python framework about the Elections in Spain.
+Spanish visual novel developed with <a href= "https://renpy.org">Ren´py</a>, a Python framework about the Elections in Spain.
 
 ## Features
 - Three different characters to choose depending on your political affinities
@@ -9,11 +9,12 @@ Spanish visual novel developed with Ren'py, a Python framework about the Electio
 - Hundreds of pop-culture references
 - Bizarre humour
 
-## GamePlay
-
 
 ## Screenshots
 
+<img src="https://img.itch.zone/aW1hZ2UvMTAyOTI2OC81ODcxNTM4LmpwZw==/original/JmDksF.jpg" height="240" alt="Elecciones generales logo"/>
+<img src="https://img.itch.zone/aW1hZ2UvMTAyOTI2OC81ODcxOTYzLnBuZw==/original/R5xlE4.png" height="240" alt="Elecciones generales screenshot"/>
+<img src="https://img.itch.zone/aW1hZ2UvMTAyOTI2OC81ODcxOTU1LnBuZw==/original/C5ezro.png" height="240" alt="Elecciones generales screenshot"/>
 
 
 ## Download
