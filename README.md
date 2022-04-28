@@ -11,11 +11,9 @@ Spanish visual novel developed with Ren'py, a Python framework about the Electio
 
 ## GamePlay
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7fIgSIq7ve0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Screenshots
-<img src="https://img.itch.zone/aW1hZ2UvMTAyOTI2MC81ODcyMTEzLnBuZw==/original/bemTOp.png" alt="Jim del espacio exterior 2"/>
-<img src="https://img.itch.zone/aW1hZ2UvMTAyOTI2MC81ODcyMTE0LnBuZw==/original/rKhEID.png" alt="Jim del espacio exterior 2"/>
+
 
 
 ## Download
